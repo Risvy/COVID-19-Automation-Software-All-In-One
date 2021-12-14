@@ -240,7 +240,7 @@ Password:adminpw
 
 After login, go to 'mychannel_fabcar' folder to see the database.
 
-### Run the project
+### Now Run 
 ```
 node app.js
 ```
