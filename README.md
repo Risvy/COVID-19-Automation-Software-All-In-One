@@ -24,20 +24,20 @@ As COVID-19 pandemic is having a devastating effects on people's livelihoods and
 ### A brief description of the features of our project.
 #### a) COVID Testing and Getting Report 
 Patients can complete their Covid test by simply giving their samples and we will take it from there. By using this application, patients can track the current location of their samples (e.g. "On the way for collection", "Sample Collected", "Report Delivered" and so on). Afterwards, they can collect their report online rather than going to the hostipal. 
-#### b) International Testing For Travel
-For someone to travel abroad where they need their covid test done by the last 48 hours, we have a 'International Patient' panel to make an urgent test. 
+#### b) International Travel Test
+For someone to travel abroad where they need their covid test done by the last 48 hours, we have a 'International Travel Test' panel to make an urgent test. 
 
 #### c) Admin Panel
 We developed the admin panel as well where an admin can manage everything from add/select employees to upload report. 
 
 #### d) Vaccine Authentication & Ensuring Safe Delivery
-One can check if they are taking the real vaccine or not by scanning vaccine QR code.
+One can check if they are taking the original vaccine or not by scanning vaccine QR code.
 
 #### e) COVID Prevention & Symptoms
-People can know about the symptoms and prevention of COVID-19.
+Patients can find about the symptoms and prevention of COVID-19.
 
 #### f) Helpline & Urgent Healthcare Support
-Patients can contact to the helpline number for any urgent support related to COVID-19.
+Patients can contact to the helpline number which will be sent to their cell phone directly for any urgent support.
 
 ### How to use it?
 #### i) Home Page: When a user will enter into the project he will see the home page.By clicking Get Started button he/she can go to the risk page.
