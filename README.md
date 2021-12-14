@@ -40,7 +40,7 @@ Patients can find about the symptoms and prevention of COVID-19.
 Patients can contact to the helpline number which will be sent to their cell phone directly for any urgent support.
 
 ### How to use it?
-#### i) Home Page: User will see the home page first. To get started, user should simply click the "Get Started" Button.
+#### i) Home Page: When a user will enter into the project he will see the home page.By clicking Get Started button he/she can go to the risk page.
 ![home](https://user-images.githubusercontent.com/58721247/145877241-7b2af775-121e-4969-ba66-3fd764f08efd.png)
 
 #### ii)Symptom and Prevention: Users can know about Symptom and prevention of COVID-19 using Symptoms and Prevention option.
@@ -291,18 +291,18 @@ To install Xampp please visit https://phoenixnap.com/kb/how-to-install-xampp-on-
 cd $HOME
 git clone https://github.com/Risvy/COVID-19-Automation-Software-All-In-One.git
 ```
-After downloading move the COVID-19-Automation-Software-All-In-One folder to /opt/lampp/htdocs directory.
+After downloading move the db3th folder located in COVID-19-Automation-Software-All-In-One/src folder to /opt/lampp/htdocs directory.
 ## Start Xampp:
 Open your terminal and write this to start your Xampp:
 ```
 cd $HOME
 sudo /opt/lampp/lampp start
 ```
-Now open your browser and type http://localhost/dashboard/. Click phpMyAdmin and create a database named covidtesting. After creating database covidtesting import the db.sql file which is located in /opt/lampp/htdocs/COVID-19-Automation-Software-All-In-One/sql in covidtesting database. After successful importing you will see tables like the image below:
+Now open your browser and type http://localhost/dashboard/. Click phpMyAdmin and create a database named covidtesting. After creating database covidtesting import the db.sql file which is located in /opt/lampp/htdocs/db3th/sql in covidtesting database. After successful importing you will see tables like the image below:
 
 ![Screenshot (173)](https://user-images.githubusercontent.com/58721247/145941448-80393e47-03c0-402b-92b2-a37f9999256a.png)
 
-Now open your browser and type http://localhost//COVID-19-Automation-Software-All-In-One. You will see the home page of this project.
+Now open your browser and type http://localhost//db3th. You will see the home page of this project.
 
 
 
