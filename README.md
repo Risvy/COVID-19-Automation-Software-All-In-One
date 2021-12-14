@@ -253,24 +253,6 @@ nodemon app.js
 ```
 
 
-### Optional
-
-Hope the first time installation was successful.
-
-Now every time we need to run the project, we just have to run the following commands.
-```
-cd $HOME/fabric-samples/fabcar
-./startFabric.sh javascript
-cd javascript
-npm install 
-node enrollAdmin.js 
-node registerUser.js
-nodemon app.js
-```
-
-
-
-P.S: For development purpose, if we make any changes to the chaincode, we have to restart the network and run these commands again.   
  
 ### Troubleshoot
 1. For any kind of permission related problem, act as root user and try again.
@@ -291,7 +273,7 @@ To install Xampp please visit https://phoenixnap.com/kb/how-to-install-xampp-on-
 cd $HOME
 git clone https://github.com/Risvy/COVID-19-Automation-Software-All-In-One.git
 ```
-After downloading move the db3th folder located in COVID-19-Automation-Software-All-In-One/src folder to /opt/lampp/htdocs directory.
+### After downloading move the "db3th" folder located in (COVID-19-Automation-Software-All-In-One/src) folder to (/opt/lampp/htdocs) directory.
 ## Start Xampp:
 Open your terminal and write this to start your Xampp:
 ```
@@ -306,6 +288,26 @@ Now open your browser and type http://localhost/db3th/index.html You will see th
 
 
 
+### Optional
+
+Hope the first time installation was successful.
+
+Now every time we need to run the project, we just have to run the following commands.
+```
+sudo /opt/lampp/lampp start
+
+cd fabric-samples
+cd fabcar
+sudo ./startFabric.sh javascript
+cd javascript 
+node enrollAdmin.js 
+node registerUser.js
+node app.js
+
+```
+Now hit the URL : http://localhost/db3th/index.html
+
+ 
 
 
 
