@@ -43,36 +43,40 @@ Patients can contact to the helpline number for any urgent support related to CO
 #### i) Home Page: When a user will enter into the project he will see the home page.By clicking Get Started button he/she can go to the risk page.
 ![home](https://user-images.githubusercontent.com/58721247/145877241-7b2af775-121e-4969-ba66-3fd764f08efd.png)
 
+#### ii)Symptom and Prevention: Users can know about Symptom and prevention of COVID-19 using Symptoms and Prevention option.
+![prevention](https://user-images.githubusercontent.com/58721247/145948816-21d1fdc8-48eb-407a-bd17-725553fdb4cf.png)
+![symptom](https://user-images.githubusercontent.com/58721247/145948839-eccaaa1a-4836-462c-922f-3c6aa7153263.png)
 
-#### ii) Risk Measure: After clicking Get Started button the site will redirect to the page where one can measure the COVID-19 affected risk.
+
+#### iii) Risk Measure: After clicking Get Started button the site will redirect to the page where one can measure the COVID-19 affected risk.
 ![Risk](https://user-images.githubusercontent.com/58721247/145878712-dce49d46-6d90-4b70-8b46-059825c77ec6.png)
 ![Risk_display](https://user-images.githubusercontent.com/58721247/145878731-9b12d45f-4220-4b66-a524-ef7856b13634.png)
 
 
-#### iii) New User Registration: By clicking New User a new user can register by giving all of his/her information and test information like which test method he/she want to test and time slot for his test.
+#### iv) New User Registration: By clicking New User a new user can register by giving all of his/her information and test information like which test method he/she want to test and time slot for his test.
 ![new_user](https://user-images.githubusercontent.com/58721247/145880236-795e4ca5-583e-4bf1-9478-12b19b7ab2d7.png)
 
-#### iv) Already Registered User: If a user already did a test by registering and again want to do a test then he/she don't need to register again. He/she can search his NID/Birth Certificate Number and  only need to give test method and time slot for slot by clicking Already Registered User option.
+#### v) Already Registered User: If a user already did a test by registering and again want to do a test then he/she don't need to register again. He/she can search his NID/Birth Certificate Number and  only need to give test method and time slot for slot by clicking Already Registered User option.
 ![already_registered](https://user-images.githubusercontent.com/58721247/145880606-c405e130-73bb-4324-98b6-36a85e4c5f6f.png)
 
-#### v) International Travel Test: If a user want to go to foreign country he/she need to get the report within 48hours and need to give passport details. By clicking International Travel Test a user can request for his test report to come in 48hours. He need to register by giving all his/her information and test information.
+#### vi) International Travel Test: If a user want to go to foreign country he/she need to get the report within 48hours and need to give passport details. By clicking International Travel Test a user can request for his test report to come in 48hours. He need to register by giving all his/her information and test information.
 ![inter](https://user-images.githubusercontent.com/58721247/145881661-525d06f2-4a8b-4540-ba7a-ba414cdcb628.png)
 
-#### vi) Finding Report and Tracking Test History: A user who has done a test can see in which stage his report is now. There are some stages(On the way for collection,Sample Collected,Sent to Lab,Delivered). If his/her report is ready he/she can download it.
+#### vii) Finding Report and Tracking Test History: A user who has done a test can see in which stage his report is now. There are some stages(On the way for collection,Sample Collected,Sent to Lab,Delivered). If his/her report is ready he/she can download it.
 ![report](https://user-images.githubusercontent.com/58721247/145882747-5dd8c2ed-a41a-4f77-8b46-e1ff8c912b1e.png)
 ![report-track](https://user-images.githubusercontent.com/58721247/145882762-87ba343e-65cc-40b0-bad8-0ce81a8ab7f6.png)
 
-#### vii) Admin Login and Dashboard: Admin can login using password and username. After login he will see a dashboard where the notification bell shows how many new test request is submitted and the test request on the top are for international travel test. So from notification bar he can direct assign this sample to any employee. From dashboard he can also see total test,how many test are assigned, on the way for collection, sample collected, sent to lab, delivered, total registered patients, total international test requests.
+#### viii) Admin Login and Dashboard: Admin can login using password and username. After login he will see a dashboard where the notification bell shows how many new test request is submitted and the test request on the top are for international travel test. So from notification bar he can direct assign this sample to any employee. From dashboard he can also see total test,how many test are assigned, on the way for collection, sample collected, sent to lab, delivered, total registered patients, total international test requests.
 ![dashboard](https://user-images.githubusercontent.com/58721247/145926826-0cc801f5-2872-4f66-b33b-e5af7c0d33c6.png)
 
-#### viii) Take Action By Admin: If a admin want to change the current report status of a user's report he/she can use the Take Action button and select in which stage the sample is now and give a remark. If he/she is changing the status into Delivered then only he/she need to submit the pdf of user's report. Also the test tracking history can also be seen in a user's profile page.
+#### ix) Take Action By Admin: If a admin want to change the current report status of a user's report he/she can use the Take Action button and select in which stage the sample is now and give a remark. If he/she is changing the status into Delivered then only he/she need to submit the pdf of user's report. Also the test tracking history can also be seen in a user's profile page.
 ![delivered](https://user-images.githubusercontent.com/58721247/145927115-900a770a-06ef-40f2-91be-7cabf734eb42.png)
 
  
-#### ix) Adding and Managing Employee: A admin can add a employee's information(id, name, mobile number) and also can update and delete their information. For asssigning a test request to a employee it is important to add employee.
+#### x) Adding and Managing Employee: A admin can add a employee's information(id, name, mobile number) and also can update and delete their information. For asssigning a test request to a employee it is important to add employee.
 ![assign](https://user-images.githubusercontent.com/58721247/145927478-42f28650-a811-4050-a1a1-05acf4d72019.png)
 
-#### x)Vaccine Authenticity: This feature has many sub-feature.
+#### xi)Vaccine Authenticity: This feature has many sub-feature.
 a) Registration: A user can create an account by providing necessary information e.g., name, email address, role, etc about him/her or the organization he/she is representing.
 ![Register (1)](https://user-images.githubusercontent.com/58721247/145931126-c0378560-c01b-417a-95b2-80609bf7140e.png)
 
