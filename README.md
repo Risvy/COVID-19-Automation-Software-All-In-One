@@ -78,7 +78,7 @@ Patients can contact to the helpline number which will be sent to their cell pho
 #### x) Adding and Managing Employee: Admin can add a employee's information (id, name, mobile number) and also can update and delete their information. For asssigning any test request to the employee it is important to add some employees first.
 ![assign](https://user-images.githubusercontent.com/58721247/145927478-42f28650-a811-4050-a1a1-05acf4d72019.png)
 
-#### xi)Vaccine Authenticity: This feature has many sub-feature.
+#### xi) Vaccine Authenticity: This feature has many sub-feature.
 a) Registration: A user can create an account by providing necessary information e.g., name, email address, role, etc about him/her or the organization he/she is representing.
 ![Register (1)](https://user-images.githubusercontent.com/58721247/145931126-c0378560-c01b-417a-95b2-80609bf7140e.png)
 
@@ -251,9 +251,7 @@ npm install -g nodemon
 # Now Run:
 nodemon app.js
 ```
-Now visit: http://localhost:3000/ 
 
-(If the link doesn't work, try replacing 'http' with 'https').
 
 ### Optional
 
@@ -269,7 +267,7 @@ node enrollAdmin.js
 node registerUser.js
 nodemon app.js
 ```
-Now hit the URL: http://localhost:3000/ and we are online!  
+
 
 
 P.S: For development purpose, if we make any changes to the chaincode, we have to restart the network and run these commands again.   
@@ -300,9 +298,9 @@ Open your terminal and write this to start your Xampp:
 cd $HOME
 sudo /opt/lampp/lampp start
 ```
-Now open your browser and type http://localhost/dashboard/. Click phpMyAdmin and create a database named covidtesting. After creating database covidtesting import the db.sql file which is located in /opt/lampp/htdocs/db3th/SQL File in covidtesting database. After successful importing you will see tables like the image below:
+Now open your browser and type http://localhost/dashboard/. Click phpMyAdmin and create a database named covidtesting. After creating database covidtesting import the db.sql file which is located in /opt/lampp/htdocs/db3th/sql in covidtesting database. After successful importing you will see tables like the image below:
 
-![Screenshot (174)](https://user-images.githubusercontent.com/58721247/145953951-f03560d7-dcde-4467-8359-bcb7a4cfce75.png)
+![Screenshot (173)](https://user-images.githubusercontent.com/58721247/145941448-80393e47-03c0-402b-92b2-a37f9999256a.png)
 
 Now open your browser and type http://localhost//db3th. You will see the home page of this project.
 
