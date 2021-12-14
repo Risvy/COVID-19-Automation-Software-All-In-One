@@ -302,7 +302,7 @@ Now open your browser and type http://localhost/dashboard/. Click phpMyAdmin and
 
 ![Screenshot (173)](https://user-images.githubusercontent.com/58721247/145941448-80393e47-03c0-402b-92b2-a37f9999256a.png)
 
-Now open your browser and type http://localhost//db3th. You will see the home page of this project.
+Now open your browser and type http://localhost/db3th/index.html You will see the home page of this project.
 
 
 
