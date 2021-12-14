@@ -233,7 +233,7 @@ node registerUser.js
 ```
 
 ### CouchDB UI
-You can see the database here <br>
+You can see the blockchain database here. <br> To see the mysql database go to "Downloading and Configuring the project" option below. <br>
 http://localhost:5984/_utils/ <br>
 Username:admin<br>
 Password:adminpw
@@ -305,7 +305,9 @@ node registerUser.js
 node app.js
 
 ```
-Now hit the URL : http://localhost/db3th/index.html
+Now hit the URL : http://localhost/db3th/index.html and we are online! 
+
+Thanks for reading this really long readme file! 
 
  
 
