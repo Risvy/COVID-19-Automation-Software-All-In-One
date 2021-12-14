@@ -1,0 +1,110 @@
+
+
+.bg-gray{
+    background-color: #ffffff;
+}
+
+
+.welcome{
+background-image: url(./img/corona.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+height:500px;
+opacity:0.8;
+   /* padding: 6%; */
+   display: flex;
+   align-self: center;
+   
+}
+.wel-txt{
+     
+    
+   
+}
+.form-box{
+    width:50%;
+    border: 2px ;
+    margin: auto;
+    background-color: white
+    
+    
+}
+form {
+    margin: 10% 0;
+}
+.form-group {
+    margin: 4% 2%;
+}
+.form-group input:focus {
+    border-color: #0b2c6e;
+}
+.form-control {
+    border-radius: 30px;
+    margin: 2% 0;
+    outline: none;
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: 1px solid black;
+}
+.btn-user {
+    width: 100%;
+    padding: 3% 1%;
+    margin: 8% 0;
+    border-radius: 100px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    background-image:blue;
+}
+.main-form{
+    background-color: rgb(114, 186, 214);
+    padding:5%;
+}
+
+.alert{
+    background-color:rgba(221, 101, 101,0.2);
+    text-align:center;
+    color:rgb(158, 25, 25);
+}
+.btn-search {
+    width: 100%;
+    padding: 3% 1%;
+    margin: 2% 0;
+    border-radius: 100px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    background-image:blue;
+}
+.user-details tr{
+    font-size: 120%;
+}
+.test-details tr{
+    font-size:120%;
+}
+.details{
+    text-decoration: none;
+    padding: 2% 4%;
+    background-color: aqua;
+    color:black;
+
+}
+.details:hover{
+    color:white;
+}
+.icon-circle{
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.risk{
+    background-color: aqua;
+    padding: 20px;
+}
+
