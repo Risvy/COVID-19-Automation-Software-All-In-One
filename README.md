@@ -40,7 +40,7 @@ Patients can find about the symptoms and prevention of COVID-19.
 Patients can contact to the helpline number which will be sent to their cell phone directly for any urgent support.
 
 ### How to use it?
-#### i) Home Page: When a user will enter into the project he will see the home page.By clicking Get Started button he/she can go to the risk page.
+#### i) Home Page: User will see the home page first. To get started, user should simply click the "Get Started" Button.
 ![home](https://user-images.githubusercontent.com/58721247/145877241-7b2af775-121e-4969-ba66-3fd764f08efd.png)
 
 #### ii)Symptom and Prevention: Users can know about Symptom and prevention of COVID-19 using Symptoms and Prevention option.
