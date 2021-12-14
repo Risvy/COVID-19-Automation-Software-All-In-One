@@ -43,12 +43,12 @@ Patients can contact to the helpline number which will be sent to their cell pho
 #### i) Home Page: When a user will enter into the project he will see the home page.By clicking Get Started button he/she can go to the risk page.
 ![home](https://user-images.githubusercontent.com/58721247/145877241-7b2af775-121e-4969-ba66-3fd764f08efd.png)
 
-#### ii)Symptom and Prevention: Users can know about Symptom and prevention of COVID-19 using Symptoms and Prevention option.
+#### ii) Symptoms and Prevention: Users can find the COVID Symptoms and way of prevention here.
 ![prevention](https://user-images.githubusercontent.com/58721247/145948816-21d1fdc8-48eb-407a-bd17-725553fdb4cf.png)
 ![symptom](https://user-images.githubusercontent.com/58721247/145948839-eccaaa1a-4836-462c-922f-3c6aa7153263.png)
 
 
-#### iii) Risk Measure: After clicking Get Started button the site will redirect to the page where one can measure the COVID-19 affected risk.
+#### iii) Risk Measurement: After clicking Get Started button user will be redirected to the page where they can measure the COVID-19 affected risk by filling up the form. A sample example of high risk is shown below.
 ![Risk](https://user-images.githubusercontent.com/58721247/145878712-dce49d46-6d90-4b70-8b46-059825c77ec6.png)
 ![Risk_display](https://user-images.githubusercontent.com/58721247/145878731-9b12d45f-4220-4b66-a524-ef7856b13634.png)
 
