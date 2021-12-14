@@ -53,27 +53,29 @@ Patients can contact to the helpline number which will be sent to their cell pho
 ![Risk_display](https://user-images.githubusercontent.com/58721247/145878731-9b12d45f-4220-4b66-a524-ef7856b13634.png)
 
 
-#### iv) New User Registration: By clicking New User a new user can register by giving all of his/her information and test information like which test method he/she want to test and time slot for his test.
+#### iv) COVID Test Registration: By clicking New User, patients can register for their COVID test, by giving relevent test information like which test method they want to apply and time slot for their test.
 ![new_user](https://user-images.githubusercontent.com/58721247/145880236-795e4ca5-583e-4bf1-9478-12b19b7ab2d7.png)
 
-#### v) Already Registered User: If a user already did a test by registering and again want to do a test then he/she don't need to register again. He/she can search his NID/Birth Certificate Number and  only need to give test method and time slot for slot by clicking Already Registered User option.
+#### v) Already Registered User: For testing COVID for the 2nd time, patients don't need to register again. They can search his NID/Birth Certificate Number and  only need to provide test method and time slot.
 ![already_registered](https://user-images.githubusercontent.com/58721247/145880606-c405e130-73bb-4324-98b6-36a85e4c5f6f.png)
 
-#### vi) International Travel Test: If a user want to go to foreign country he/she need to get the report within 48hours and need to give passport details. By clicking International Travel Test a user can request for his test report to come in 48hours. He need to register by giving all his/her information and test information.
+#### vi) International Travel Test: If a user want to go to foreign country he/she need to get the report within 48hours and need to give passport details. By clicking International Travel Test a user can request for his/her urgent test report. 
+
 ![inter](https://user-images.githubusercontent.com/58721247/145881661-525d06f2-4a8b-4540-ba7a-ba414cdcb628.png)
 
-#### vii) Finding Report and Tracking Test History: A user who has done a test can see in which stage his report is now. There are some stages(On the way for collection,Sample Collected,Sent to Lab,Delivered). If his/her report is ready he/she can download it.
+#### vii) Finding Report and Tracking Test History: A user who has done a test can see in which stage his report is now. There are some stages(On the way for collection,Sample Collected,Sent to Lab,Delivered). Once the report is ready, he/she can download it.
 ![report](https://user-images.githubusercontent.com/58721247/145882747-5dd8c2ed-a41a-4f77-8b46-e1ff8c912b1e.png)
 ![report-track](https://user-images.githubusercontent.com/58721247/145882762-87ba343e-65cc-40b0-bad8-0ce81a8ab7f6.png)
 
-#### viii) Admin Login and Dashboard: Admin can login using password and username. After login he will see a dashboard where the notification bell shows how many new test request is submitted and the test request on the top are for international travel test. So from notification bar he can direct assign this sample to any employee. From dashboard he can also see total test,how many test are assigned, on the way for collection, sample collected, sent to lab, delivered, total registered patients, total international test requests.
+#### viii) Admin Login and Dashboard: Admin can login using password and username. After login, he will see a dashboard where the notification bell shows how many new test request is submitted. Urgent test request are on the top for international travel test. So from notification bar he can directly assign patients' sample to a employee. From dashboard he can also see total test,how many test are assigned, on the way for collection, sample collected, sent to lab, delivered, total registered patients, total international test requests. Details are shown in the video tutorial.
+
 ![dashboard](https://user-images.githubusercontent.com/58721247/145926826-0cc801f5-2872-4f66-b33b-e5af7c0d33c6.png)
 
-#### ix) Take Action By Admin: If a admin want to change the current report status of a user's report he/she can use the Take Action button and select in which stage the sample is now and give a remark. If he/she is changing the status into Delivered then only he/she need to submit the pdf of user's report. Also the test tracking history can also be seen in a user's profile page.
+#### ix) Take Action By Admin: If the admin wants to change the current report status of a user's report he/she can use the 'Take Action' button and select in which stage the sample is now and give a remark. When delivered, admin will submit a pdf file of user's report. Also the test tracking history can also be seen in from user's 'Find report' option.
 ![delivered](https://user-images.githubusercontent.com/58721247/145927115-900a770a-06ef-40f2-91be-7cabf734eb42.png)
 
  
-#### x) Adding and Managing Employee: A admin can add a employee's information(id, name, mobile number) and also can update and delete their information. For asssigning a test request to a employee it is important to add employee.
+#### x) Adding and Managing Employee: Admin can add a employee's information (id, name, mobile number) and also can update and delete their information. For asssigning any test request to the employee it is important to add some employees first.
 ![assign](https://user-images.githubusercontent.com/58721247/145927478-42f28650-a811-4050-a1a1-05acf4d72019.png)
 
 #### xi)Vaccine Authenticity: This feature has many sub-feature.
