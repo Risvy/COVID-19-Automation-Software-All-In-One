@@ -23,7 +23,7 @@ As COVID-19 pandemic is having a devastating effects on people's livelihoods and
 
 ### A brief description of the features of our project.
 #### a) COVID Testing and Getting Report 
-Patients can complete their Covid test by simply giving their samples we will take it from there. By using this application, patients can track the current location of their samples (e.g. "On the way for collection", "Sample Collected", "Report Delivered" and so on). Afterwards, they can collect their report online rather than going to the hostipal. 
+Patients can complete their Covid test by simply giving their samples and we will take it from there. By using this application, patients can track the current location of their samples (e.g. "On the way for collection", "Sample Collected", "Report Delivered" and so on). Afterwards, they can collect their report online rather than going to the hostipal. 
 #### b) International Testing For Travel
 For someone to travel abroad where they need their covid test done by the last 48 hours, we have a 'International Patient' panel to make an urgent test. 
 
