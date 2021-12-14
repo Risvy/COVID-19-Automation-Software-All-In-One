@@ -300,9 +300,9 @@ Open your terminal and write this to start your Xampp:
 cd $HOME
 sudo /opt/lampp/lampp start
 ```
-Now open your browser and type http://localhost/dashboard/. Click phpMyAdmin and create a database named covidtesting. After creating database covidtesting import the db.sql file which is located in /opt/lampp/htdocs/db3th/sql in covidtesting database. After successful importing you will see tables like the image below:
+Now open your browser and type http://localhost/dashboard/. Click phpMyAdmin and create a database named covidtesting. After creating database covidtesting import the db.sql file which is located in /opt/lampp/htdocs/db3th/SQL File in covidtesting database. After successful importing you will see tables like the image below:
 
-![Screenshot (173)](https://user-images.githubusercontent.com/58721247/145941448-80393e47-03c0-402b-92b2-a37f9999256a.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/58721247/145953951-f03560d7-dcde-4467-8359-bcb7a4cfce75.png)
 
 Now open your browser and type http://localhost//db3th. You will see the home page of this project.
 
